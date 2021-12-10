@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
     alignItems:'center'
   },
   detailsTitle:{
-    color:'orange',
+    color:'green',
     fontSize:20,
     fontWeight:'bold'
   }
